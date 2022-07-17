@@ -2,7 +2,7 @@
 
 ## Creating a Solana Token
 
-[Demo](https://token-creator-lac.vercel.app/)
+[Demo](https://spl-token-creator-six.vercel.app)
 
 You can use the token creator application to create a token and
 sent it to your wallet. This application is purely for demonstration
@@ -165,6 +165,5 @@ const createMintTransaction = new Transaction().add(
   )
 );
 ```
-You can find the full source code for this application [here](https://github.com/jacobcreech/Token-Creator/blob/master/src/components/CreateToken.tsx).
 
 Enjoy your new token!
